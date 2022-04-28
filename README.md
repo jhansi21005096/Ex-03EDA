@@ -128,3 +128,5 @@ sns.heatmap(df.corr(),annot=True)
 ![](output22.png)
 ![](output23.png)
 
+### Result:
+Thus,exploratory dataset analysis (EDA) on the given data set is sucessfully completed.
